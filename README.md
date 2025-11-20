@@ -37,7 +37,7 @@ AI and Data Science graduate passionate about building intelligent applications 
 
 ## 💡 Featured Projects
 
-### 🤖 [Doc Talk – RAG Document Chatbot](link-to-repo)
+### 🤖 [Doc Talk – RAG Document Chatbot](https://github.com/zerobear8530032/RAG)
 AI-driven document chatbot using Retrieval-Augmented Generation for natural language querying of unstructured documents.
 
 **Tech Stack:** Python, Flask, RAG, Vector DB, Gemini 2.0  
@@ -51,7 +51,7 @@ AI-driven document chatbot using Retrieval-Augmented Generation for natural lang
 
 ---
 
-### 📊 [Product Review Analysis – Sentiment Extraction Pipeline](link-to-repo)
+### 📊 [Product Review Analysis – Sentiment Extraction Pipeline](https://github.com/zerobear8530032/Review-Analysis-Project)
 Automated sentiment analysis system for product reviews with real-time web scraping.
 
 **Tech Stack:** Python, BeautifulSoup, Scikit-Learn, Flask  
