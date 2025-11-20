@@ -5,7 +5,7 @@ AI and Data Science graduate passionate about building intelligent applications 
 
 📍 Based in Bhopal, India  
 💼 Open to opportunities in AI/ML and Full-Stack Development  
-🌱 Currently exploring advanced RAG architectures and LLM applications
+🌱 Currently exploring backend with node js and express
 
 ## 🛠️ Tech Stack
 
