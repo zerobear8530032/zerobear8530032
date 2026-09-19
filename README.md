@@ -52,7 +52,7 @@ I enjoy understanding how things work under the hood, from **HTTP requests and s
 
 **Spring Boot backend for organizing and retaining personal learning material.**
 
-[View Repository →](https://github.com/zerobear8530032/Personal-Knowledge-Management-Platform)
+[View Repository →]([https://github.com/zerobear8530032/Personal-Knowledge-Management-Platform](https://github.com/zerobear8530032/Personal-Knowledgement-Application))
 
 **Tech Stack:** Java 21, Spring Boot, Spring Data JPA, Hibernate, MySQL, MapStruct, Spring Security
 
