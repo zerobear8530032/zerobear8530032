@@ -1,80 +1,180 @@
 # Hi there, I'm Abdul Saboor 👋
 
-## 🚀 About Me
-AI and Data Science graduate passionate about building intelligent applications that solve real-world problems. I specialize in machine learning, full-stack development, and creating end-to-end AI-powered solutions.
+### Java Backend Developer | Spring Boot | REST APIs | Backend Engineering
 
-📍 Based in Bhopal, India  
-💼 Open to opportunities in AI/ML and Full-Stack Development  
-🌱 Currently exploring backend with node js and express
+I'm a software engineer focused on building backend applications with **Java and Spring Boot**.
+
+Currently, I'm building a **Personal Knowledge Management Platform** — a backend application designed to help users organize notes, resources, attachments, and learning activities.
+
+I enjoy understanding how things work under the hood, from **HTTP requests and servlet filters to Spring Security, JPA/Hibernate, databases, caching, and application architecture**.
+
+🌱 Currently learning: **Spring Security, Redis, Docker & AWS deployment**
+
+🧠 Practicing: **Data Structures & Algorithms in Java**
+
+💼 Interested in: **Java Backend / Spring Boot Engineering roles**
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend
 
-### Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
 
-### Data Science & ML  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### Databases & Caching
 
-### Tools & Databases  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-## 💡 Featured Projects
+### Development & Deployment
 
-### 🤖 [Doc Talk – RAG Document Chatbot](https://github.com/zerobear8530032/RAG)
-AI-driven document chatbot using Retrieval-Augmented Generation for natural language querying of unstructured documents.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
-**Tech Stack:** Python, Flask, RAG, Vector DB, Gemini 2.0  
-**Key Features:**
-- Semantic retrieval using vector embeddings for accurate document search
-- Context-aware responses powered by LLMs
-- Secure user authentication with document access control
-- Automated preprocessing and chunking pipelines
+### Data Science & Previous Experience
 
-**Use Cases:** Enterprise knowledge bases, academic research, customer support automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ---
 
-### 📊 [Product Review Analysis – Sentiment Extraction Pipeline](https://github.com/zerobear8530032/Review-Analysis-Project)
-Automated sentiment analysis system for product reviews with real-time web scraping.
+## 🚀 Featured Projects
 
-**Tech Stack:** Python, BeautifulSoup, Scikit-Learn, Flask  
-**Key Features:**
-- Live web scraping from e-commerce platforms
-- Logistic Regression-based sentiment classification
-- RESTful API for third-party integration
-- Advanced text preprocessing and feature extraction
+### 📚 Personal Knowledge Management Platform
 
-**Use Cases:** E-commerce insights, purchase decision support, customer experience enhancement
+**Spring Boot backend for organizing and retaining personal learning material.**
+
+[View Repository →](https://github.com/zerobear8530032/Personal-Knowledge-Management-Platform)
+
+**Tech Stack:** Java 21, Spring Boot, Spring Data JPA, Hibernate, MySQL, MapStruct, Spring Security
+
+**Currently implemented / explored:**
+
+* RESTful APIs for users, notes, folders and attachments
+* DTO-based API design
+* Entity relationships with JPA/Hibernate
+* MapStruct-based entity ↔ DTO mapping
+* Validation and centralized exception handling
+* Pagination and API response handling
+* File upload and attachment management
+* Caching with Spring Cache
+* Dynamic task scheduling
+* Spring Security and authentication
+* Ownership and authorization
+
+**Planned:**
+
+* Redis
+* Advanced search
+* Tags and resource organization
+* Study sessions and revision scheduling
+* Flashcards
+* AI-assisted learning features
+* Dockerized deployment
+* Cloud deployment
+
+---
+
+### 🧠 DSA in Java
+
+A long-term repository for **Data Structures & Algorithms interview preparation in Java**.
+
+[View Repository →](https://github.com/zerobear8530032/DSAInJava)
+
+Topics include:
+
+* Arrays & Strings
+* Linked Lists
+* Stack & Queue
+* Trees & Binary Search Trees
+* Recursion & Backtracking
+* Binary Search
+* Dynamic Programming
+* Graphs
+* Greedy Algorithms
+
+My general approach for dynamic programming problems:
+
+**Recursion → Memoization → Tabulation → Space Optimization**
+
+---
+
+### 🤖 Doc Talk — RAG Document Chatbot
+
+AI-powered document question-answering application using Retrieval-Augmented Generation.
+
+[View Repository →](https://github.com/zerobear8530032/RAG)
+
+**Tech Stack:** Python, Flask, RAG, Vector Database, Gemini
+
+Features include document processing, semantic retrieval, embeddings and context-aware LLM responses.
+
+This project represents my earlier work in **AI/ML and intelligent applications**.
+
+---
+
+### 📊 Product Review Analysis
+
+Sentiment analysis pipeline for product reviews.
+
+[View Repository →](https://github.com/zerobear8530032/Review-Analysis-Project)
+
+**Tech Stack:** Python, BeautifulSoup, Scikit-Learn, Flask
+
+Includes web scraping, text preprocessing, sentiment classification and a REST API.
+
+---
+
+## 📖 Currently Learning
+
+```text
+Java
+  └── Spring Boot
+       ├── REST APIs
+       ├── JPA / Hibernate
+       ├── Validation
+       ├── Exception Handling
+       ├── Spring Security
+       ├── Caching
+       └── Scheduling
+
+Backend Engineering
+  ├── Redis
+  ├── Docker
+  ├── AWS
+  ├── Testing
+  └── System Design
+
+Interview Preparation
+  └── Data Structures & Algorithms
+```
+
+---
 
 ## 📈 GitHub Stats
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerobear8530032&show_icons=true&theme=radical)
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerobear8530032\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerobear8530032&layout=compact&theme=radical)
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-saboor-2b5a54219)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zero_bear/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsaboor8166@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerobear8530032\&layout=compact\&theme=radical)
 
 ---
 
-⭐️ From [Abdul Saboor](https://github.com/zerobear8530032)
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abdul-saboor-2b5a54219)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/zero_bear/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abdulsaboor8166@gmail.com)
+
+---
+
+⭐️ Thanks for visiting my profile!
