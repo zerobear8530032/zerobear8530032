@@ -85,5 +85,5 @@ I'm working toward becoming a strong **Java Backend Developer** by building real
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/abdul-saboor-2b5a54219]
+* LinkedIn: [@abdul saboor](https://www.linkedin.com/in/abdul-saboor-2b5a54219)
 * GitHub: [@zerobear8530032](https://github.com/zerobear8530032)
