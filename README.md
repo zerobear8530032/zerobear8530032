@@ -38,7 +38,7 @@ I enjoy understanding how things work under the hood and building applications w
 
 A Spring Boot backend application for managing personal notes and knowledge.
 
-Currently working with:
+Working with:
 
 * User management
 * Notes and folders
@@ -59,6 +59,7 @@ I regularly practice DSA using **Java** and work through problems from platforms
 
 * LeetCode
 * GeeksforGeeks
+* Neetcode.io
 
 Topics I've worked with include:
 
@@ -71,13 +72,6 @@ Topics I've worked with include:
 * Binary Search
 * Hashing
 * Stack & Queue
-
-## 📚 Currently Learning
-
-* Spring Boot
-* Spring Security
-* Backend Development
-* Data Structures & Algorithms
 
 ## 🎯 Goal
 
